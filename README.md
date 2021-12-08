@@ -1,1 +1,1 @@
-# B-y-k-veri-dev
+# Buyuk-veri-odev
