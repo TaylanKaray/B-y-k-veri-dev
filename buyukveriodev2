@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 sns.set_palette('husl')
 import matplotlib.pyplot as plt
-%matplotlib inline
+% matplotlib inline
 
 
 from sklearn import metrics
